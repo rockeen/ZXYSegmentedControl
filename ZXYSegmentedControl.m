@@ -1,6 +1,5 @@
  //
 //  ZXYSegmentedControl.m
-//  时光电影
 //
 //  Created by Rockeen on 15/11/28.
 //  Copyright (c) 2015年 Rockeen https://github.com/rockeen. All rights reserved.
