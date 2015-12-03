@@ -26,3 +26,7 @@ Demo:
     
     }
 
+
+图片    
+
+![](https://github.com/rockeen/ZXYSegmentedControl/raw/master/Logo/exam.png)
